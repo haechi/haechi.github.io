@@ -15,6 +15,3 @@ Example of the final presentation using the minipage environment for putting a f
 ![Block Environment]({{ site.url }}/assets/images/beamer-erlangen-03.jpg)
 Example of block environments, the actual block is in the same color as the background, only the block title is emphasized.
 If your you like to use the theme or modify it, go to [https://github.com/haechi/beamer-erlangen](https://github.com/haechi/beamer-erlangen).
-
-
-/assets/images/

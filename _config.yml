@@ -8,8 +8,8 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'haechi.me'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-65232017-1'
 
 # Details for the RSS feed generator
-url:            'https://haechi.me'
+url:            'http://haechi.me'
 author:         'Alexander Zhou'
