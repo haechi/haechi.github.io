@@ -206,8 +206,8 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 12rem;
-    letter-spacing: +8px;
+    font-size: 5rem;
+    letter-spacing: -2px;
     text-indent: -3px;
 }
 
@@ -662,11 +662,12 @@ margin on the iframe, cause it breaks stuff. */
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
-    letter-spacing: -1px;
+    font-size: 10rem;
+    letter-spacing: 1.3rem;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
+	text-transform: uppercase;
 }
 
 .page-description {
@@ -674,8 +675,9 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
-    letter-spacing: 0.01rem;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 0.5rem;
+	text-transform: uppercase;
     color: rgba(255,255,255,0.8);
 }
 
@@ -723,6 +725,7 @@ margin on the iframe, cause it breaks stuff. */
     border-bottom: #EBF2F6 1px solid;
     word-break: break-word;
     hyphens: auto;
+	text-align: justify;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -760,6 +763,7 @@ body:not(.post-template) .post-title {
 
 .read-more {
     text-decoration: none;
+	text-align: justify;
 }
 
 .post-meta {
@@ -848,6 +852,7 @@ body:not(.post-template) .post-title {
 
 .post-template .post-header {
    margin-bottom: 3.4rem;
+   text-align: left;
 }
 
 .post-template .post-title {

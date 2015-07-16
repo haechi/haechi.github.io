@@ -1,5 +1,5 @@
-name: HAECHI
-description: Retifing the Korean Wave 
+name: Haechi
+description: Rectifying the Korean Wave
 meta_description: "Morning Calm ..."
 
 markdown: redcarpet
@@ -7,9 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://haechi.me'
+domain_name: 'haechi.me'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'haechi.me'
+url:            'https://haechi.me'
 author:         'Alexander Zhou'
