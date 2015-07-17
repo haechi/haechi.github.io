@@ -662,7 +662,7 @@ margin on the iframe, cause it breaks stuff. */
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     /* Left margin alignment, poor man's hack */
-    margin: 10px 0 10px 15px;
+    margin: 10px 0 10px 12px;
     font-size: 10rem;
     letter-spacing: 1.3rem;
     font-weight: 700;
