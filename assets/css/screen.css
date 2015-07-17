@@ -1566,9 +1566,9 @@ body:not(.post-template) .post-title {
     }
 
     .page-title {
-    	margin: 8px 0 8px 0;
-        font-size: 6rem;
-        letter-spacing: 1.2rem;
+    	margin: 10px 0 10px 0;
+        font-size: 5.5rem;
+        letter-spacing: 1.1rem;
     }
 
     .post-excerpt p {
@@ -1576,8 +1576,8 @@ body:not(.post-template) .post-title {
     }
 
     .page-description {
-        font-size: 1.6rem;
-        letter-spacing: 0.3rem;
+        font-size: 1.4rem;
+        letter-spacing: 0.2rem;
     }
 
     h1, h2, h3,
