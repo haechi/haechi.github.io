@@ -661,7 +661,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 10px 10px;
     font-size: 10rem;
     letter-spacing: 1.3rem;
     font-weight: 700;
@@ -1375,6 +1375,7 @@ body:not(.post-template) .post-title {
 
     body:not(.post-template) .post-title {
         font-size: 3.2rem;
+        text-align: left;
     }
 
     hr {
@@ -1568,7 +1569,6 @@ body:not(.post-template) .post-title {
     .page-title {
         font-size: 5.5rem;
         letter-spacing: 1.1rem;
-        text-align: center;
     }
 
     .post-excerpt p {
