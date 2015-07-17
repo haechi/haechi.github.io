@@ -1,6 +1,6 @@
-name: Haechi
-description: Rectifying the Korean Wave
-meta_description: "Morning Calm ..."
+name: 'Haechi'
+description: 'Rectifying the Korean Wave'
+meta_description: 'Morning Calm ...'
 
 markdown: redcarpet
 highlighter: pygments
