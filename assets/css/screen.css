@@ -672,7 +672,8 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .page-description {
-    margin: 0;
+    /* Left margin alignment, poor man's hack */
+    margin: 0px 0px 0px 2px;
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
