@@ -667,7 +667,7 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
-	text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .page-description {
@@ -725,7 +725,7 @@ margin on the iframe, cause it breaks stuff. */
     border-bottom: #EBF2F6 1px solid;
     word-break: break-word;
     hyphens: auto;
-	text-align: justify;
+    text-align: justify;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -1360,8 +1360,8 @@ body:not(.post-template) .post-title {
     }
 
     .page-title {
-        font-size: 4rem;
-        letter-spacing: -1px;
+        font-size: 7rem;
+        letter-spacing: 1.1rem;
     }
 
     .page-description {
