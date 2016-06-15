@@ -2,7 +2,7 @@ name: 'Haechi'
 description: 'Rectifying the Korean Wave'
 meta_description: 'Morning Calm ...'
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
