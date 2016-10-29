@@ -3,7 +3,7 @@ description: 'Rectifying the Korean Wave'
 meta_description: 'Morning Calm ...'
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
