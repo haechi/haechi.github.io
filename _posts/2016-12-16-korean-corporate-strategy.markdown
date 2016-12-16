@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Observation on Korean Corporate Strategy"
 date:   2016-12-16 17:00:00
 categories: Korea
