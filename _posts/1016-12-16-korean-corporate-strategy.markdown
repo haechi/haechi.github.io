@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Observation of Korean Corporate Strategy"
-date:   2016-12-16 21:00:00
+title:  "Observation on Korean Corporate Strategy"
+date:   2016-12-16 17:00:00
 categories: Korea
 ---
 
