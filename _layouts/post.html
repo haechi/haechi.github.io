@@ -18,10 +18,11 @@ archive: false
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
+                <time class="post-infodate" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                 {% if page.categories.size > 0 %}
-                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
+                     <tagcloud class="post-infometa">{{ page.categories | array_to_sentence_string | prepend: 'on ' }}</tagcloud>
                 {% endif %}
+				<readtime class="post-infometa">{% include readtime.html %}</readtime
             </section>
         </header>
 
@@ -71,7 +72,7 @@ archive: false
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
                     <p>
-                        The man from far far away, was born in Germany, got a doctor in engineering, currently working in South Korea, and cultivating a non native perspective on the professional Korean working life.
+                        The man from far far away, is cultivating a non native perspective on the professional Korean working life. <a href='/about.html'> About me </a>
                     </p>
                 </section>
             {% endif %}
