@@ -10,7 +10,7 @@ One of my personal observations about Korea is that living, in the sense of ever
 The preferred way of living in Korea seems to be in modern apartment complexes, which comprise usually several high building units. Big apartment complexes can easily house several thousands of apartments, most of which come in three standard tier size sizes. Modern complexes have base set of facilities, such as kindergarten, fitness center, screen golf shooting, playgrounds, meeting rooms, study rooms, security guards, video surveillance, park areas and shopping center with a super market and one or two convenient stores and restaurants. The usual goal is that your daily necessities can all be fore filled within the apartment complex. The complex is a walled garden, usually with a fence and an electronic entrance gate, so that the people inside of the complex are undisturbed from outsiders.
 Parking lots are usually underground in newer complexes, which leaves the space between the buildings available for parks and playgrounds with a very protected feeling.
 
-![An Apartment in Seoul]({ site.url }/assets/images/apartment-fall-2017.jpg)
+![An Apartment in Seoul]({{ site.url }}/assets/images/apartment-fall-2017.jpg)
 
 Everything can and is getting delivered. Your shopping bag from the supermarket, the bread that you ordered, groceries, your kinds when they return from the private school. Just about everything.
 
