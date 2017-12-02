@@ -3,7 +3,7 @@ description: 'Rectifying the Korean Wave'
 meta_description: 'Morning Calm ...'
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 logo: false
 paginate: 5
 baseurl: /
@@ -11,6 +11,8 @@ domain_name: 'haechi.me'
 google_analytics: 'UA-65232017-1'
 plugins: [jekyll-paginate]
 
+
 # Details for the RSS feed generator
 url:            'http://haechi.me'
 author:         'Alexander Zhou'
+
