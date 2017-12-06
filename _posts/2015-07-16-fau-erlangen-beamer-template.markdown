@@ -15,7 +15,7 @@ The title page background is a pdf file edited with OmniGraffle. Colors for the 
 
 ![Minipage Environment]({{ site.url }}/assets/images/beamer-erlangen-02.jpg)
 
-An example of the final presentation using the minipage environment for putting a figure on the left and the bullet list on the right is shown above. 
+An example of the final presentation using the minipage environment for putting a figure on the left and the bullet list on the right is shown above.
 
 ![Block Environment]({{ site.url }}/assets/images/beamer-erlangen-03.jpg)
 
