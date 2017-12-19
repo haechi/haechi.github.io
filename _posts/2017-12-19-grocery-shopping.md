@@ -7,7 +7,7 @@ categories: Korea
 
 A few days ago I cam across an [article][1] regarding the percentage of grocery shopping spent online. The article included the chart below.
 
-![Infographic: Where the Most Groceries Are Bought Online | Statista]({{ site.url }}/assets/images/statistica-where-the-most-groceries-are-bought-online.jpg)
+![Statista Infographic: Where the Most Groceries Are Bought Online]({{ site.url }}/assets/images/statistica-where-the-most-groceries-are-bought-online.jpg)
 
 My thought and experience are actually different. Our household with four persons buys the majority of groceries online. [Emart][2] a local grocery retailer, offers same day or next day delivery. You will need to find a delivery slot from the Emart in your area, usually starting form the early morning until the late evening. If you buy at least two times per month Emart will give you free delivery coupons. So we order all the heavy stuff there including the mineral water. Usually you can order all item from the dedicated phone app, but the web interface is still a little bit more convenient.
 
