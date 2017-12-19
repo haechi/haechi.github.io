@@ -15,7 +15,7 @@ For vegetables, fruits and meat we use the organic grocery stores located near o
 
 I think these things are so popular in Korea, since the people tend to be occupied with their work until the late evening. So it is convenient to manage your shopping on the commute. One thing that cannot be order online is alcohol. Thus if you are looking for a bottle of wine online you will be sad.
 
-As the article mentioned, the internet speed in Korea is fast. However that does not translate into a good shopping experience. Often Korean websites are build on old dark age frameworks optimized for Internet Explorer using Active X plugins to display or secure content. Pages generally lack usability, they are colorful, display annoying popups, and generally load huge amount of data and images. Thus internet is fast, but it doesn’t feel fast. 
+As the article mentioned, the internet speed in Korea is fast. However that does not translate into a good shopping experience. Often Korean websites are build on old dark age frameworks optimized for Internet Explorer using Active X plugins to display or secure content. Pages generally lack usability, they are colorful, display annoying popups, and generally load huge amount of data and images. Thus internet is fast, but it doesn’t feel fast.
 
 [1]:	https://www.weforum.org/agenda/2017/12/south-koreans-buy-the-most-groceries-online-by-far/ "South Koreans buy the most groceries online, by far"
 [2]:	http://emart.ssg.com "Emart"
