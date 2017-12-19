@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "FAU Erlangen Beamer Template"
-date:   2015-07-16 16:23:00
+title: "FAU Erlangen Beamer Template"
+date: 2015-07-16 16:23:00
 categories: TeX
 ---
 

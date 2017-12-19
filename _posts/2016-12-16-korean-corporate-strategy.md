@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Korean Corporate Strategy"
-date:   2016-12-16 17:00:00
+title: "Korean Corporate Strategy"
+date: 2016-12-16 17:00:00
 categories: Korea
 ---
 
@@ -12,7 +12,7 @@ However my observation form working several year in the corporate Korean world i
 If the core technology is missing, business becomes more opportunistic and market driven. Management is looking for chances instead of developing new markets by applying new technologies.
 
 
-In general Korean seem to have a strong follower culture, very loyal and dedicated. Individualism is not appreciated and people that stick out are usually marked. Thus the corporate management is looking to other companies for inspiration and examples to follow. The very best example is Samsung and Apple, but you could extend this to basically all areas of the corporate Korea. 
+In general Korean seem to have a strong follower culture, very loyal and dedicated. Individualism is not appreciated and people that stick out are usually marked. Thus the corporate management is looking to other companies for inspiration and examples to follow. The very best example is Samsung and Apple, but you could extend this to basically all areas of the corporate Korea.
 
 
-This lack of vision and strategic planning is one of the reason of the dwindling competitiveness of Korea's economy. It seems very likely that Korea to at the beginning of a long recession or low growth period, with significant restructuring and painfully adapting to the new China reality. 
+This lack of vision and strategic planning is one of the reason of the dwindling competitiveness of Korea's economy. It seems very likely that Korea to at the beginning of a long recession or low growth period, with significant restructuring and painfully adapting to the new China reality.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "LaTeX Thesis Template"
-date:   2015-07-19 22:00:00
+title: "LaTeX Thesis Template"
+date: 2015-07-19 22:00:00
 categories: TeX
 ---
 
