@@ -27,4 +27,4 @@ The title page was formatted by hand since it had to match the requirement of th
 
  ![Title page]({{ site.url }}/assets/images/koma-thesis-erlangen-05.jpg)
 
-Feel free to use the template for your own thesis. I hope it will help you short cut some time usually required for setting up complex LaTeX documents. You may download the template through the git repository  [https://github.com/haechi/koma-thesis-erlangen](https://github.com/haechi/koma-thesis-erlangen).
+Feel free to use the template for your own uses. I hope it will help you short cut some time usually required for setting up complex XeTeX documents. You may download the template through the git repository  [https://github.com/haechi/koma-thesis-erlangen](https://github.com/haechi/koma-thesis-erlangen).
