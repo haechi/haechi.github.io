@@ -3,12 +3,12 @@ layout: page
 title: About me
 ---
 
-Alexander Zhou the man from far far away. I was born in Germany, got a doctor in engineering, currently living in Seoul, South Korea.
+Alexander has not much to say, because silence is a true friend who never betrays.
 
 ###### Get in Touch
 
-Long time ago I have decided to sit out Facebook and it's clones. I have nothing to say on [Twitter][1]. You may [email][2] me, or take a look at [Github][3] where this blog has it's home.
+I have decided to sit out Facebook and it's clones. I have nothing to say on [Mastodon][1]. You may [email][2] me,  or take a look at the [Github][3] graveyard where this blog has made it's home.
 
-[1]:	https://twitter.com/haechime
+[1]:	@haechi@mastodon.energy
 [2]:	mailto:mail@haechi.me
 [3]:	https://github.com/haechi
